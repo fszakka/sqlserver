@@ -1,0 +1,14 @@
+{
+  "name": "sqlserver",
+  "version": "1.0.0",
+  "description": "Database layer for MS SQL Server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Debjeet Biswas",
+  "license": "private",
+  "dependencies": {
+    "mssql": "^1.3.0"
+  }
+}
